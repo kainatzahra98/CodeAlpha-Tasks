@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# Temp audio files
+temp_audio.mp3
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/

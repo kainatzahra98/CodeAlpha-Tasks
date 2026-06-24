@@ -1,0 +1,314 @@
+[
+  {
+    "category": "General",
+    "question": "What are your office hours?",
+    "answer": "Our office is open from 9:00 AM to 6:00 PM, Monday through Friday. We are closed on weekends and public holidays.",
+    "variations": ["When are you open?", "What time do you open?", "What are your working hours?", "When does the office close?"]
+  },
+  {
+    "category": "General",
+    "question": "Where is your office located?",
+    "answer": "Our main office is located at 123 Innovation Drive, Tech Park, San Francisco, CA 94105. You can find us on the 5th floor.",
+    "variations": ["What is your address?", "Where are you located?", "How do I find your office?", "What's your location?"]
+  },
+  {
+    "category": "General",
+    "question": "How can I contact you?",
+    "answer": "You can reach us via email at support@company.com, call us at +1 (800) 555-0199, or use the live chat on our website. Our support team is available during business hours.",
+    "variations": ["How do I reach you?", "What is your phone number?", "What is your email?", "How to get in touch?"]
+  },
+  {
+    "category": "General",
+    "question": "What does your company do?",
+    "answer": "We are a technology company specializing in cloud-based software solutions for businesses. Our products include project management tools, CRM systems, and data analytics platforms.",
+    "variations": ["Tell me about your company", "What services do you provide?", "What is your company about?", "What do you guys do?"]
+  },
+  {
+    "category": "General",
+    "question": "How long has your company been in business?",
+    "answer": "We were founded in 2015 and have been serving clients worldwide for over 10 years. We've grown from a small startup to a team of 200+ professionals.",
+    "variations": ["When was your company founded?", "How old is your company?", "When did you start?"]
+  },
+  {
+    "category": "General",
+    "question": "Do you have a mobile app?",
+    "answer": "Yes! Our mobile app is available for both iOS and Android. You can download it from the Apple App Store or Google Play Store by searching for our company name.",
+    "variations": ["Is there an app?", "Can I use this on my phone?", "Where can I download the app?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "What products do you offer?",
+    "answer": "We offer three main products: 1) CloudSync Pro — a project management platform, 2) CustomerHub — a CRM solution, and 3) DataInsight — a business analytics tool. Each comes with various tier options.",
+    "variations": ["What are your products?", "Show me your products", "What do you sell?", "What solutions do you have?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "Do you offer a free trial?",
+    "answer": "Yes, we offer a 14-day free trial for all our products. No credit card required. You can sign up on our website and start exploring all features immediately.",
+    "variations": ["Can I try before buying?", "Is there a free version?", "How do I get a trial?", "Do you have a demo?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "What is CloudSync Pro?",
+    "answer": "CloudSync Pro is our flagship project management platform. It offers task tracking, team collaboration, Gantt charts, time tracking, and integrations with 50+ popular tools like Slack, GitHub, and Google Workspace.",
+    "variations": ["Tell me about CloudSync", "What does CloudSync do?", "CloudSync features?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "Do you offer custom solutions?",
+    "answer": "Absolutely! We offer custom enterprise solutions tailored to your business needs. Contact our sales team at sales@company.com to discuss your requirements and get a personalized quote.",
+    "variations": ["Can you build something custom?", "Do you make custom software?", "Can I get a tailored solution?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "What integrations do you support?",
+    "answer": "We support 50+ integrations including Slack, Microsoft Teams, Google Workspace, GitHub, Jira, Salesforce, Zapier, and many more. You can also use our REST API to build custom integrations.",
+    "variations": ["What apps do you integrate with?", "Do you work with Slack?", "Can I connect other tools?", "API integrations?"]
+  },
+  {
+    "category": "Products & Services",
+    "question": "Do you provide API access?",
+    "answer": "Yes, all our paid plans include full REST API access. You can find our comprehensive API documentation at docs.company.com/api. We also provide SDKs for Python, JavaScript, and Java.",
+    "variations": ["Is there an API?", "How do I access the API?", "Do you have developer tools?", "API documentation?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "What are your pricing plans?",
+    "answer": "We offer three plans: Starter ($9/month per user), Professional ($29/month per user), and Enterprise (custom pricing). All plans include core features, with advanced features in higher tiers. Annual billing saves you 20%.",
+    "variations": ["How much does it cost?", "What are your prices?", "Pricing information?", "How much do I pay?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, bank transfers, and wire transfers. Enterprise clients can also pay via purchase orders.",
+    "variations": ["How can I pay?", "Do you accept PayPal?", "Payment options?", "Can I pay with credit card?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "Can I get a refund?",
+    "answer": "Yes, we offer a 30-day money-back guarantee on all plans. If you're not satisfied, contact our billing team at billing@company.com and we'll process your refund within 5-7 business days.",
+    "variations": ["What is your refund policy?", "How do I get my money back?", "Is there a money-back guarantee?", "I want a refund"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "Do you offer discounts for students or nonprofits?",
+    "answer": "Yes! We offer 50% off for students and educational institutions, and 30% off for registered nonprofits. Contact us at discounts@company.com with valid proof of status to apply.",
+    "variations": ["Student discount?", "Nonprofit pricing?", "Educational discount?", "Any special offers?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "Can I change my plan?",
+    "answer": "Yes, you can upgrade or downgrade your plan at any time from your account settings. Upgrades take effect immediately, and downgrades apply at the start of your next billing cycle.",
+    "variations": ["How do I upgrade?", "Can I downgrade my plan?", "Switch plans?", "Change subscription?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "Do you offer annual billing?",
+    "answer": "Yes, we offer both monthly and annual billing options. Annual billing saves you 20% compared to monthly payments. You can switch to annual billing from your account settings.",
+    "variations": ["Yearly subscription?", "Annual pricing?", "Can I pay yearly?", "Monthly vs annual?"]
+  },
+  {
+    "category": "Pricing & Billing",
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription anytime from Account Settings > Billing > Cancel Plan. Your access will continue until the end of your current billing period. No cancellation fees apply.",
+    "variations": ["How to cancel?", "I want to cancel", "Cancel my account", "Stop subscription"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "How do I create an account?",
+    "answer": "Visit our website and click 'Sign Up'. You can register with your email address or sign up using your Google, Microsoft, or GitHub account. Verification email will be sent to confirm your account.",
+    "variations": ["How to sign up?", "How do I register?", "Create a new account?", "I want to join"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page, enter your email address, and we'll send you a password reset link. The link expires in 24 hours. If you don't receive it, check your spam folder.",
+    "variations": ["I forgot my password", "Password reset?", "Can't log in", "Change my password", "Lost my password"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "Is my data secure?",
+    "answer": "Absolutely. We use AES-256 encryption for data at rest, TLS 1.3 for data in transit, and follow SOC 2 Type II compliance standards. We also offer two-factor authentication and regular security audits.",
+    "variations": ["How secure is my data?", "Data security?", "Is it safe?", "Do you encrypt data?", "Privacy policy?"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "Do you offer two-factor authentication?",
+    "answer": "Yes, we support two-factor authentication (2FA) via authenticator apps (Google Authenticator, Authy) and SMS verification. You can enable 2FA from Account Settings > Security.",
+    "variations": ["2FA available?", "Two step verification?", "How to enable 2FA?", "Extra security options?"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "Can I delete my account?",
+    "answer": "Yes, you can delete your account from Account Settings > Privacy > Delete Account. Please note that account deletion is permanent and all your data will be removed within 30 days per our data retention policy.",
+    "variations": ["How to delete account?", "Remove my account", "I want to delete my data", "Close my account"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "How do I update my profile information?",
+    "answer": "Go to Account Settings > Profile to update your name, email, profile picture, and other personal information. Changes are saved automatically.",
+    "variations": ["Change my email?", "Update profile?", "Edit my information?", "Change account details?"]
+  },
+  {
+    "category": "Account & Security",
+    "question": "What is your privacy policy?",
+    "answer": "We take privacy seriously. We never sell your data to third parties. Our full privacy policy is available at company.com/privacy. We comply with GDPR, CCPA, and other applicable data protection regulations.",
+    "variations": ["Do you sell my data?", "GDPR compliance?", "Data protection?", "How do you handle my information?"]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days, express shipping takes 2-3 business days, and overnight shipping is available for most locations. Delivery times may vary for international orders.",
+    "variations": ["When will my order arrive?", "Delivery time?", "How fast is shipping?", "Estimated delivery?"]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 7-14 business days. Customs duties and taxes may apply depending on your country.",
+    "variations": ["International delivery?", "Do you ship overseas?", "Ship to my country?", "Worldwide shipping?"]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number via email. You can track your package at company.com/track or through the carrier's website (FedEx, UPS, or DHL).",
+    "variations": ["Track my package?", "Where is my order?", "Order tracking?", "Shipping status?"]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "question": "What is the shipping cost?",
+    "answer": "Standard shipping is free for orders over $50. For orders under $50, standard shipping costs $5.99, express shipping costs $12.99, and overnight shipping costs $24.99.",
+    "variations": ["How much is shipping?", "Shipping fees?", "Free shipping?", "Delivery charges?"]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "question": "Can I change my delivery address?",
+    "answer": "You can update your delivery address before your order ships. Go to Orders > Select Order > Edit Address. If the order has already shipped, please contact our support team for assistance.",
+    "variations": ["Wrong address on order", "Update shipping address?", "Change where my order is going?"]
+  },
+  {
+    "category": "Support & Contact",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via: 1) Live chat on our website (fastest), 2) Email at support@company.com, 3) Phone at +1 (800) 555-0199, or 4) Submit a ticket at support.company.com.",
+    "variations": ["I need help", "Customer service?", "Talk to support?", "How to get help?", "Support contact?"]
+  },
+  {
+    "category": "Support & Contact",
+    "question": "What are your support hours?",
+    "answer": "Our support team is available Monday to Friday, 8:00 AM to 8:00 PM EST. Premium and Enterprise plan users have access to 24/7 priority support.",
+    "variations": ["When is support available?", "Support hours?", "24/7 support?", "When can I call?"]
+  },
+  {
+    "category": "Support & Contact",
+    "question": "What is your average response time?",
+    "answer": "Our average response time is under 2 hours for email and tickets, and under 5 minutes for live chat. Enterprise clients receive priority support with a guaranteed 30-minute response time.",
+    "variations": ["How fast do you respond?", "Response time?", "How long to get a reply?", "Wait time for support?"]
+  },
+  {
+    "category": "Support & Contact",
+    "question": "Do you have a knowledge base or help center?",
+    "answer": "Yes! Visit help.company.com for our comprehensive knowledge base with 500+ articles, video tutorials, and step-by-step guides covering all our products and features.",
+    "variations": ["Documentation?", "Help articles?", "Tutorials?", "Where can I learn more?", "User guides?"]
+  },
+  {
+    "category": "Support & Contact",
+    "question": "Can I request a feature?",
+    "answer": "Absolutely! We love hearing from our users. Submit feature requests at feedback.company.com. Our product team reviews all suggestions monthly, and popular requests are prioritized for development.",
+    "variations": ["Feature request?", "Suggest a feature?", "I have an idea", "How to give feedback?"]
+  },
+  {
+    "category": "Technical",
+    "question": "The app is not loading. What should I do?",
+    "answer": "Try these steps: 1) Clear your browser cache and cookies, 2) Try a different browser, 3) Disable browser extensions, 4) Check your internet connection, 5) If the issue persists, contact support with your browser version and any error messages.",
+    "variations": ["App not working", "Website won't load", "Can't access the app", "Page not loading", "Site is down"]
+  },
+  {
+    "category": "Technical",
+    "question": "How do I clear my cache?",
+    "answer": "In Chrome: Settings > Privacy > Clear Browsing Data. In Firefox: Settings > Privacy > Clear Data. In Safari: Preferences > Privacy > Manage Website Data. Select 'Cached images and files' and click Clear.",
+    "variations": ["Clear browser cache?", "How to clear cookies?", "Browser data?", "Cache clearing instructions?"]
+  },
+  {
+    "category": "Technical",
+    "question": "What browsers do you support?",
+    "answer": "We support the latest versions of Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. For the best experience, we recommend using Google Chrome. Internet Explorer is not supported.",
+    "variations": ["Supported browsers?", "Does it work on Safari?", "Browser compatibility?", "Which browser to use?"]
+  },
+  {
+    "category": "Technical",
+    "question": "Why am I getting an error message?",
+    "answer": "Error messages can occur for various reasons. Please note the exact error code or message and contact our support team. Common errors include: 401 (authentication issue), 403 (permission denied), 404 (page not found), and 500 (server error).",
+    "variations": ["Error on the page", "Getting an error", "Something went wrong", "Bug report"]
+  },
+  {
+    "category": "Technical",
+    "question": "How do I export my data?",
+    "answer": "Go to Account Settings > Data > Export Data. You can export your data in CSV, JSON, or PDF format. The export will be prepared and sent to your email within a few minutes.",
+    "variations": ["Download my data?", "Data export?", "Can I get my data?", "Export to CSV?"]
+  },
+  {
+    "category": "Technical",
+    "question": "What are the system requirements?",
+    "answer": "Our web app works on any modern browser with an internet connection. For optimal performance, we recommend: 4GB+ RAM, a stable internet connection (5 Mbps+), and a screen resolution of at least 1280x720.",
+    "variations": ["System requirements?", "What do I need to run it?", "Hardware requirements?", "Minimum specs?"]
+  },
+  {
+    "category": "Careers",
+    "question": "Are you hiring?",
+    "answer": "Yes, we're always looking for talented people! Check out our open positions at company.com/careers. We offer competitive salaries, remote work options, and great benefits.",
+    "variations": ["Job openings?", "Career opportunities?", "Can I work for you?", "Open positions?", "Do you have jobs?"]
+  },
+  {
+    "category": "Careers",
+    "question": "Do you offer internships?",
+    "answer": "Yes, we offer paid internship programs in engineering, design, marketing, and business development. Internships are typically 3-6 months. Apply at company.com/careers/internships.",
+    "variations": ["Internship opportunities?", "Student internship?", "Summer internship?", "Intern positions?"]
+  },
+  {
+    "category": "Careers",
+    "question": "Do you allow remote work?",
+    "answer": "Yes, we are a remote-first company! Most positions are fully remote, with optional access to our offices in San Francisco and New York. We support flexible working hours across time zones.",
+    "variations": ["Work from home?", "Remote positions?", "Can I work remotely?", "Office or remote?"]
+  },
+  {
+    "category": "Policies",
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for physical products. Items must be in original condition with packaging. Digital products are covered by our 30-day money-back guarantee. Contact support to initiate a return.",
+    "variations": ["Can I return a product?", "Return instructions?", "How to return?", "Exchange policy?"]
+  },
+  {
+    "category": "Policies",
+    "question": "What are your terms of service?",
+    "answer": "Our full Terms of Service are available at company.com/terms. Key points include: you must be 18+ to use our services, you're responsible for your account security, and we reserve the right to modify services with notice.",
+    "variations": ["Terms and conditions?", "User agreement?", "Legal terms?", "Service agreement?"]
+  },
+  {
+    "category": "Policies",
+    "question": "Do you have an SLA?",
+    "answer": "Yes, we offer Service Level Agreements for Professional and Enterprise plans. Our standard SLA guarantees 99.9% uptime. Enterprise clients can negotiate custom SLAs. Details at company.com/sla.",
+    "variations": ["Service level agreement?", "Uptime guarantee?", "What is your SLA?", "Guaranteed uptime?"]
+  },
+  {
+    "category": "Policies",
+    "question": "How do you handle data breaches?",
+    "answer": "In the unlikely event of a data breach, we follow a strict incident response plan: 1) Contain the breach, 2) Assess the impact, 3) Notify affected users within 72 hours, 4) Report to relevant authorities, and 5) Implement corrective measures.",
+    "variations": ["Data breach policy?", "What if my data is leaked?", "Security incident?", "Breach notification?"]
+  },
+  {
+    "category": "Community",
+    "question": "Do you have a community forum?",
+    "answer": "Yes! Join our community at community.company.com. Connect with other users, share tips, ask questions, and participate in discussions. We also have active communities on Discord and Reddit.",
+    "variations": ["User forum?", "Community?", "Where can I discuss?", "Online community?"]
+  },
+  {
+    "category": "Community",
+    "question": "Do you host events or webinars?",
+    "answer": "Yes, we host monthly webinars on product features, quarterly user meetups, and an annual conference called 'TechConnect'. Register for upcoming events at company.com/events.",
+    "variations": ["Upcoming events?", "Webinar schedule?", "Conference?", "Any meetups?"]
+  },
+  {
+    "category": "Community",
+    "question": "How can I become a partner?",
+    "answer": "We offer partnership programs for resellers, agencies, and technology partners. Visit company.com/partners to learn about partnership tiers, benefits, and how to apply.",
+    "variations": ["Partnership opportunities?", "Become a reseller?", "Partner program?", "Affiliate program?"]
+  }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Chat Header -->
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="avatar">
+                    <i class="fa-solid fa-robot"></i>
+                    <span class="status-dot"></span>
+                </div>
+                <div class="header-text">
+                    <h1>Support Assistant</h1>
+                    <p>Usually replies instantly</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button class="icon-btn" aria-label="Settings"><i class="fa-solid fa-ellipsis-vertical"></i></button>
+            </div>
+        </header>
+
+        <!-- Chat Messages Area -->
+        <main class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-content">
+                    <p>Hello! 👋 I'm your virtual support assistant. How can I help you today?</p>
+                </div>
+                <div class="message-time">Just now</div>
+            </div>
+
+            <!-- Quick Replies -->
+            <div class="quick-replies" id="quickReplies">
+                {% for sample in samples %}
+                <button class="quick-reply-btn" onclick="sendQuickReply(this)">{{ sample }}</button>
+                {% endfor %}
+            </div>
+
+            <!-- Typing Indicator (Hidden by default) -->
+            <div class="typing-indicator" id="typingIndicator">
+                <span></span><span></span><span></span>
+            </div>
+        </main>
+
+        <!-- Chat Input Area -->
+        <footer class="chat-input-area">
+            <div class="input-wrapper">
+                <input type="text" id="userInput" placeholder="Type your question..." autocomplete="off">
+                <button id="sendBtn" class="send-btn" aria-label="Send message">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
+            </div>
+            <div class="footer-text">
+                Powered by NLP • Answers are automated
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
